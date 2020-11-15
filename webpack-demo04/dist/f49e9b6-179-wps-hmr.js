@@ -1,0 +1,1 @@
+self.webpackHotUpdatewebpack_demo04(179,{220:(e,a,b)=>{b(906),b(189)("Webpack2")}},(function(e){"use strict";e.h=()=>"ea653d0fb5613dd533bf"}));
